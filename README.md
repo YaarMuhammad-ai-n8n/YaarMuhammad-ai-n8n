@@ -3,7 +3,8 @@
 </p>
 
 <p align="center">
-  <img src="photo.png" alt="Yar Muhammad" width="120" style="border-radius:50%"/>
+  <img src="photo.png" width="120" 
+  style="border-radius:50%; border: 3px solid #00C9A7"/>
 </p>
 
 <h1 align="center">Hi, I'm Yar Muhammad 👋</h1>
