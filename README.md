@@ -11,7 +11,7 @@
 
 <p align="center">
   <b>AI Automation Engineer | n8n · Groq · LangChain · OpenAI</b><br/>
-  Founder @ aivesm — Building AI agents that run businesses on autopilot<br/>
+  Founder @ Orken ai — Building AI agents that run businesses on autopilot<br/>
   📍 Pakistan &nbsp;|&nbsp; 💼 Upwork 98% JSS &nbsp;|&nbsp; ⚡ 10+ Years Experience
 </p>
 
